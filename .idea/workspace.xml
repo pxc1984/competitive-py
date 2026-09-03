@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3f7d919-9f5e-4c60-9473-4a66c097bf6c" name="Changes" comment="c">
-      <change afterPath="$PROJECT_DIR$/cu-black-algo-03-09-2026/d.py" afterDir="false" />
+    <list default="true" id="e3f7d919-9f5e-4c60-9473-4a66c097bf6c" name="Changes" comment="d tl">
+      <change afterPath="$PROJECT_DIR$/cu-black-algo-03-09-2026/d_tc.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uv.lock" beforeDir="false" afterPath="$PROJECT_DIR$/uv.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cu-black-algo-03-09-2026/d.py" beforeDir="false" afterPath="$PROJECT_DIR$/cu-black-algo-03-09-2026/d.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,17 +34,73 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.b.executor": "Run",
     "Python.c.executor": "Run",
-    "Python.d.executor": "Debug",
+    "Python.d 20000.executor": "Run",
+    "Python.d.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/igor/dev/competitive-py/d_tc_20000.txt"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/cu-black-algo-03-09-2026" />
     </key>
+  </component>
+  <component name="RunManager" selected="Python.d 20000">
+    <configuration name="d 20000" type="PythonConfigurationType" factoryName="Python">
+      <module name="competitive-py" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="uv (competitive-py)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cu-black-algo-03-09-2026/d.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/d_tc_20000.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration name="d" type="PythonConfigurationType" factoryName="Python">
+      <module name="competitive-py" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="uv (competitive-py)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cu-black-algo-03-09-2026/d.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/cu-black-algo-03-09-2026/d_tc.txt" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.d" />
+      <item itemvalue="Python.d 20000" />
+    </list>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -86,24 +141,43 @@
       <option name="project" value="LOCAL" />
       <updated>1788445826750</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="d tl">
+      <option name="closed" value="true" />
+      <created>1788447474519</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1788447474519</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="task a done" />
     <MESSAGE value="b" />
     <MESSAGE value="c" />
-    <option name="LAST_COMMIT_MESSAGE" value="c" />
+    <MESSAGE value="d tl" />
+    <option name="LAST_COMMIT_MESSAGE" value="d tl" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/cu-black-algo-03-09-2026/d.py</url>
-          <line>37</line>
-          <option name="timeStamp" value="7" />
+          <line>23</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cu-black-algo-03-09-2026/d.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="arr[middle]" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

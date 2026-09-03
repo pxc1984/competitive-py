@@ -25,7 +25,13 @@ def find_index_binsearch(number: int, arr: list[int]) -> int:
     middle = l + (r - l) // 2
     if number > arr[-1] or number < arr[0]:
         return -1
+    if number == arr[-1]:
+        return len(arr)-1
+    if number == arr[0]:
+        return 0
     while arr[middle] != number and r > l:
+        if r - l == 1 and arr[l] < number < arr[r]:
+            return -1
         if number < arr[middle]:
             r = middle
         else:
