@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3f7d919-9f5e-4c60-9473-4a66c097bf6c" name="Changes" comment="d tl">
-      <change afterPath="$PROJECT_DIR$/cu-black-algo-03-09-2026/d_tc.txt" afterDir="false" />
+    <list default="true" id="e3f7d919-9f5e-4c60-9473-4a66c097bf6c" name="Changes" comment="d solved">
+      <change afterPath="$PROJECT_DIR$/cu-black-algo-03-09-2026/e.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cu-black-algo-03-09-2026/e_tc.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cu-black-algo-03-09-2026/d.py" beforeDir="false" afterPath="$PROJECT_DIR$/cu-black-algo-03-09-2026/d.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,58 +21,35 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="3IoyH24T7bZg7FL5pxg9gwOYKFs" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.b.executor": "Run",
-    "Python.c.executor": "Run",
-    "Python.d 20000.executor": "Run",
-    "Python.d.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/igor/dev/competitive-py/d_tc_20000.txt"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.b.executor&quot;: &quot;Run&quot;,
+    &quot;Python.c.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d 20000.executor&quot;: &quot;Run&quot;,
+    &quot;Python.d.executor&quot;: &quot;Run&quot;,
+    &quot;Python.e.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/igor/dev/competitive-py/cu-black-algo-03-09-2026/e_tc.txt&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/cu-black-algo-03-09-2026" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.d 20000">
-    <configuration name="d 20000" type="PythonConfigurationType" factoryName="Python">
-      <module name="competitive-py" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="uv (competitive-py)" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="RUN_TOOL" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cu-black-algo-03-09-2026/d.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="true" />
-      <option name="INPUT_FILE" value="$PROJECT_DIR$/d_tc_20000.txt" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.e">
     <configuration name="d" type="PythonConfigurationType" factoryName="Python">
       <module name="competitive-py" />
       <option name="ENV_FILES" value="" />
@@ -97,9 +74,33 @@
       <option name="INPUT_FILE" value="$PROJECT_DIR$/cu-black-algo-03-09-2026/d_tc.txt" />
       <method v="2" />
     </configuration>
+    <configuration name="e" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="competitive-py" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="uv (competitive-py)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cu-black-algo-03-09-2026/e.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/cu-black-algo-03-09-2026/e_tc.txt" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.d" />
-      <item itemvalue="Python.d 20000" />
+      <item itemvalue="Python.e" />
     </list>
   </component>
   <component name="SharedIndexes">
@@ -149,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788447474519</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="d solved">
+      <option name="closed" value="true" />
+      <created>1788448568804</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1788448568804</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -157,7 +166,8 @@
     <MESSAGE value="b" />
     <MESSAGE value="c" />
     <MESSAGE value="d tl" />
-    <option name="LAST_COMMIT_MESSAGE" value="d tl" />
+    <MESSAGE value="d solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="d solved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -176,7 +186,8 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="arr[middle]" language="Python" />
+        <watch expression="seq1[p1]" language="Python" />
+        <watch expression="seq2[p2]" language="Python" />
       </configuration>
     </watches-manager>
   </component>
