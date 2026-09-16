@@ -1,0 +1,76 @@
+group: serverDB
+
+host = {
+	host_id:number, host_name:string, company_name:string, registration_dt:date
+	1, server1, TechCorp, 2022-01-15
+	2, webserver2, DataSystems, 2022-02-20
+	3, dbserver1, TechCorp, 2022-03-10
+	4, appserver1, CloudServices, 2022-04-05
+	5, fileserver1, DataSystems, 2022-05-12
+}
+
+ip_address = {
+    ip_id:number, host_id:number, ip_address:string
+    1, 1, 192.168.1.10
+    2, 1, 10.0.0.1
+    3, 2, 192.168.1.11
+    4, 3, 192.168.1.12
+    5, 4, 192.168.1.13
+    6, 5, 192.168.1.14
+}
+
+user_info = {
+    user_id:number, login:string, name:string, email:string, role:string
+    101, admin, "John Smith", "john.smith@example.com", admin
+    102, dev1, "Alice Johnson", "alice@example.com", developer
+    103, analyst1, "Bob Williams", "bob@example.com", analyst
+    104, support1, "Carol Brown", "carol@example.com", support
+    105, dev2, "David Miller", "david@example.com", developer
+}
+
+company = {
+    company_id:number, name:string, address:string
+    1, TechCorp, "123 Tech Street, Tech City"
+    2, DataSystems, "456 Data Avenue, Data City"
+    3, CloudServices, "789 Cloud Road, Cloud City"
+    4, NetSolutions, "101 Net Boulevard, Net City"
+}
+
+connection_attempt = {
+    connection_id:number, host_id:number, user_id:number, status:string, user_name:string, connection_dt:date
+    1001, 1, 101, success, admin, 2023-01-10
+    1002, 2, 102, success, dev1, 2023-01-10
+    1003, 1, 103, failed, analyst1, 2023-01-11
+    1004, 3, 101, success, admin, 2023-01-10
+    1005, 4, 104, success, support1, 2023-01-12
+    1006, 2, 105, failed, dev2, 2023-01-11
+    1007, 5, 101, success, admin, 2023-01-10
+}
+
+host_log = {
+    log_id:number, host_id:number, event:string, log_dt:date, host_name:string
+    1, 1, "system startup", 2023-01-10, server1
+    2, 2, "system startup", 2023-01-10, webserver2
+    3, 1, "security update applied", 2023-01-10, server1
+    4, 3, "system startup", 2023-01-10, dbserver1
+    5, 4, "system startup", 2023-01-10, appserver1
+    6, 2, "disk space warning", 2023-01-10, webserver2
+    7, 5, "system startup", 2023-01-10, fileserver1
+}
+
+domain = {
+    domain_id:number, domain_name:string, registrar:string
+    1, techcorp.com, DomainCo
+    2, datasys.net, NetRegistry
+    3, cloudserv.io, CloudDomains
+    4, netsol.org, DomainCo
+}
+
+software_update = {
+    update_id:number, software_name:string, version:string, update_dt:date
+    1, "OS Kernel", 5.4.0, 2023-01-05
+    2, "Web Server", 2.4.6, 2023-01-08
+    3, "Database", 10.5.2, 2023-01-12
+    4, "Security Tool", 3.2.1, 2023-01-15
+    5, "Backup System", 2.1.0, 2023-01-18
+}
