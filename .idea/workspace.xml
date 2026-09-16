@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3f7d919-9f5e-4c60-9473-4a66c097bf6c" name="Changes" comment="databases 0">
-      <change afterPath="$PROJECT_DIR$/db/БД_ДЗ_1_Мамаев_И_А.ipynb" afterDir="false" />
+    <list default="true" id="e3f7d919-9f5e-4c60-9473-4a66c097bf6c" name="Changes" comment="ptheory шпаргалка по научному питону">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/БД_ДЗ_1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ptheory/HW_Игорь Мамаев.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ptheory/HW_Игорь Мамаев.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ptheory/hw1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ptheory/hw1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uv.lock" beforeDir="false" afterPath="$PROJECT_DIR$/uv.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,7 +201,23 @@
       <option name="project" value="LOCAL" />
       <updated>1789556808771</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="db hw 1">
+      <option name="closed" value="true" />
+      <created>1789572646278</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1789572646278</updated>
+    </task>
+    <task id="LOCAL-00009" summary="ptheory шпаргалка по научному питону">
+      <option name="closed" value="true" />
+      <created>1789572658355</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1789572658355</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,7 +243,9 @@
     <MESSAGE value="task a done" />
     <MESSAGE value="по директориям распихал" />
     <MESSAGE value="databases 0" />
-    <option name="LAST_COMMIT_MESSAGE" value="databases 0" />
+    <MESSAGE value="db hw 1" />
+    <MESSAGE value="ptheory шпаргалка по научному питону" />
+    <option name="LAST_COMMIT_MESSAGE" value="ptheory шпаргалка по научному питону" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
