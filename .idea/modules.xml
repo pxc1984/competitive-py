@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/competitive-py.iml" filepath="$PROJECT_DIR$/.idea/competitive-py.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/competitive-py@1.iml" filepath="$PROJECT_DIR$/.idea/competitive-py@1.iml" />
     </modules>
   </component>
 </project>
