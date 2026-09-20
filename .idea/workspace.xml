@@ -10,12 +10,12 @@
     <configurations />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3f7d919-9f5e-4c60-9473-4a66c097bf6c" name="Changes" comment="семинары">
-      <change afterPath="$PROJECT_DIR$/db/seminar02_personal.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/seminar02_vzhukh.sql" afterDir="false" />
+    <list default="true" id="e3f7d919-9f5e-4c60-9473-4a66c097bf6c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ai/Неделя 2_Введение в ИИ_Основной уровень_ДЗ.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/competitive-py@1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/competitive-py@1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ai/Неделя 2_Введение в ИИ_Основной уровень_Семинар.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ai/Неделя 2_Введение в ИИ_Основной уровень_Семинар.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uv.lock" beforeDir="false" afterPath="$PROJECT_DIR$/uv.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +45,10 @@
     &quot;accountId&quot;: &quot;307164eb-cef2-4dfe-9222-c07d58a51881&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -77,7 +81,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.appearance",
+    "settings.editor.selected.configurable": "jupyter.general.settings",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -161,7 +165,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1788445125053</updated>
-      <workItem from="1789812399609" duration="4503000" />
+      <workItem from="1789812399609" duration="4524000" />
+      <workItem from="1789893161124" duration="1412000" />
     </task>
     <task id="LOCAL-00001" summary="task a done">
       <option name="closed" value="true" />
@@ -251,12 +256,21 @@
       <option name="project" value="LOCAL" />
       <updated>1789739957405</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="db seminar 2">
+      <option name="closed" value="true" />
+      <created>1789819261456</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1789819261456</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -283,7 +297,8 @@
     <MESSAGE value="ptheory шпаргалка по научному питону" />
     <MESSAGE value="ptheory requirements locked" />
     <MESSAGE value="семинары" />
-    <option name="LAST_COMMIT_MESSAGE" value="семинары" />
+    <MESSAGE value="db seminar 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="db seminar 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -298,18 +313,6 @@
           <line>38</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
-        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
-          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
-          <option name="timeStamp" value="13" />
-        </breakpoint>
-        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
-          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
-          <option name="timeStamp" value="14" />
-        </breakpoint>
-        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
-          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
-          <option name="timeStamp" value="15" />
-        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
