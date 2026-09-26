@@ -97,8 +97,7 @@ from city
 group by city.name, m.month_num, m.month_title
 order by city.name, m.month_num;
 
-explain analyze
-select 
+select
     d.darkstore_id as "ID даркстора",
     c.name as "город",
     count(distinct o) as "число заказов",
