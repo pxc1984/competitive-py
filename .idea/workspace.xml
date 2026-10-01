@@ -3,13 +3,17 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3f7d919-9f5e-4c60-9473-4a66c097bf6c" name="Changes" comment="ptheory шпаргалка по научному питону">
+    <list default="true" id="e3f7d919-9f5e-4c60-9473-4a66c097bf6c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/db/seminar03.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/competitive-py@1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/competitive-py@1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ptheory/HW_Игорь Мамаев.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ptheory/HW_Игорь Мамаев.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ptheory/hw1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ptheory/hw1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uv.lock" beforeDir="false" afterPath="$PROJECT_DIR$/uv.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +29,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
     <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -39,6 +44,10 @@
     &quot;accountId&quot;: &quot;307164eb-cef2-4dfe-9222-c07d58a51881&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -57,14 +66,27 @@
     &quot;Python.e.executor&quot;: &quot;Debug&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/igor/dev/competitive-py/cu-black-algo-03-09-2026/e_tc.txt&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;jupyter.general.settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
   }
 }</component>
   <component name="RecentsManager">
@@ -89,6 +111,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cu-black-algo-03-09-2026/d.py" />
       <option name="PARAMETERS" value="" />
@@ -113,6 +136,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cu-black-algo-03-09-2026/e.py" />
       <option name="PARAMETERS" value="" />
@@ -142,6 +166,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1788445125053</updated>
+      <workItem from="1789812399609" duration="4524000" />
+      <workItem from="1789893161124" duration="1412000" />
+      <workItem from="1790416823378" duration="4800000" />
     </task>
     <task id="LOCAL-00001" summary="task a done">
       <option name="closed" value="true" />
@@ -215,12 +242,62 @@
       <option name="project" value="LOCAL" />
       <updated>1789572658355</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="ptheory requirements locked">
+      <option name="closed" value="true" />
+      <created>1789573734692</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1789573734692</updated>
+    </task>
+    <task id="LOCAL-00011" summary="семинары">
+      <option name="closed" value="true" />
+      <created>1789739957405</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1789739957405</updated>
+    </task>
+    <task id="LOCAL-00012" summary="db seminar 2">
+      <option name="closed" value="true" />
+      <created>1789819261456</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1789819261456</updated>
+    </task>
+    <task id="LOCAL-00013" summary="неделя 2 домашка сделана">
+      <option name="closed" value="true" />
+      <created>1789919707496</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1789919707496</updated>
+    </task>
+    <task id="LOCAL-00014" summary="minor">
+      <option name="closed" value="true" />
+      <created>1789920126376</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1789920126376</updated>
+    </task>
+    <task id="LOCAL-00015" summary="final ai">
+      <option name="closed" value="true" />
+      <created>1789920519862</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1789920519862</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -233,6 +310,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="b" />
     <MESSAGE value="c" />
     <MESSAGE value="d tl" />
@@ -243,7 +321,13 @@
     <MESSAGE value="databases 0" />
     <MESSAGE value="db hw 1" />
     <MESSAGE value="ptheory шпаргалка по научному питону" />
-    <option name="LAST_COMMIT_MESSAGE" value="ptheory шпаргалка по научному питону" />
+    <MESSAGE value="ptheory requirements locked" />
+    <MESSAGE value="семинары" />
+    <MESSAGE value="db seminar 2" />
+    <MESSAGE value="неделя 2 домашка сделана" />
+    <MESSAGE value="minor" />
+    <MESSAGE value="final ai" />
+    <option name="LAST_COMMIT_MESSAGE" value="final ai" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
