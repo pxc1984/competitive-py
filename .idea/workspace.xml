@@ -11,12 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3f7d919-9f5e-4c60-9473-4a66c097bf6c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/db/hw02.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/hw03.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/data_source_mapping.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data_source_mapping.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/competitive-py@1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/competitive-py@1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/seminar03.sql" beforeDir="false" afterPath="$PROJECT_DIR$/db/seminar03.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/БД_ДЗ_2_Мамаев_И_А.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/db/БД_ДЗ_2_Мамаев_И_А.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uv.lock" beforeDir="false" afterPath="$PROJECT_DIR$/uv.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,7 +170,7 @@
       <workItem from="1789812399609" duration="4524000" />
       <workItem from="1789893161124" duration="1412000" />
       <workItem from="1790416823378" duration="5101000" />
-      <workItem from="1790427288354" duration="4185000" />
+      <workItem from="1790427288354" duration="6096000" />
     </task>
     <task id="LOCAL-00001" summary="task a done">
       <option name="closed" value="true" />
@@ -302,7 +300,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790421653072</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="db homework done">
+      <option name="closed" value="true" />
+      <created>1790431499286</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1790431499286</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -340,7 +346,8 @@
     <MESSAGE value="minor" />
     <MESSAGE value="final ai" />
     <MESSAGE value="db seminar03.sql" />
-    <option name="LAST_COMMIT_MESSAGE" value="db seminar03.sql" />
+    <MESSAGE value="db homework done" />
+    <option name="LAST_COMMIT_MESSAGE" value="db homework done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
