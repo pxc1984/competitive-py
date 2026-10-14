@@ -11,8 +11,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3f7d919-9f5e-4c60-9473-4a66c097bf6c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/competitive-py@1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/competitive-py@1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/competitive-py@1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/db-forest-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/01_sql_simulator_setup (2).ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/exam.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/preparation.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/stock_report_v2_test_4.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/data_source_mapping.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data_source_mapping.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/БД_ДЗ_1_Мамаев_И_А.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/db/БД_ДЗ_1_Мамаев_И_А.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ptheory/hw1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ptheory/hw1.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/uv.lock" beforeDir="false" afterPath="$PROJECT_DIR$/uv.lock" afterDir="false" />
     </list>
@@ -171,6 +181,10 @@
       <workItem from="1789893161124" duration="1412000" />
       <workItem from="1790416823378" duration="5101000" />
       <workItem from="1790427288354" duration="6096000" />
+      <workItem from="1791623526811" duration="5182000" />
+      <workItem from="1791964355098" duration="1112000" />
+      <workItem from="1791972028257" duration="508000" />
+      <workItem from="1791972730538" duration="716000" />
     </task>
     <task id="LOCAL-00001" summary="task a done">
       <option name="closed" value="true" />
