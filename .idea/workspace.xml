@@ -11,20 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3f7d919-9f5e-4c60-9473-4a66c097bf6c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/competitive-py@1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/db-forest-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/01_sql_simulator_setup (2).ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/exam.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/preparation.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/stock_report_v2_test_4.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/data_source_mapping.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data_source_mapping.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai/Неделя_6_Введение в ИИ_Основной_уровень_ДЗ.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/competitive-py@1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/competitive-py@1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/БД_ДЗ_1_Мамаев_И_А.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/db/БД_ДЗ_1_Мамаев_И_А.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ptheory/hw1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ptheory/hw1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uv.lock" beforeDir="false" afterPath="$PROJECT_DIR$/uv.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/БД_ДЗ_6.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/db/БД_ДЗ_6.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ptheory/contest1_var2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ptheory/contest1_var2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -322,7 +313,23 @@
       <option name="project" value="LOCAL" />
       <updated>1790431499286</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="contest start backup">
+      <option name="closed" value="true" />
+      <created>1791988632557</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1791988632557</updated>
+    </task>
+    <task id="LOCAL-00019" summary="db hw 6">
+      <option name="closed" value="true" />
+      <created>1792866073932</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1792866073933</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -361,7 +368,9 @@
     <MESSAGE value="final ai" />
     <MESSAGE value="db seminar03.sql" />
     <MESSAGE value="db homework done" />
-    <option name="LAST_COMMIT_MESSAGE" value="db homework done" />
+    <MESSAGE value="contest start backup" />
+    <MESSAGE value="db hw 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="db hw 6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
