@@ -11,11 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3f7d919-9f5e-4c60-9473-4a66c097bf6c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ai/Неделя_6_Введение в ИИ_Основной_уровень_ДЗ.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/competitive-py@1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/competitive-py@1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/БД_ДЗ_6.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/db/БД_ДЗ_6.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ptheory/contest1_var2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ptheory/contest1_var2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ai/Неделя_6_Введение в ИИ_Основной_уровень_ДЗ.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ai/Неделя_6_Введение в ИИ_Основной_уровень_ДЗ.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uv.lock" beforeDir="false" afterPath="$PROJECT_DIR$/uv.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,6 +176,7 @@
       <workItem from="1791964355098" duration="1112000" />
       <workItem from="1791972028257" duration="508000" />
       <workItem from="1791972730538" duration="716000" />
+      <workItem from="1792866416090" duration="389000" />
     </task>
     <task id="LOCAL-00001" summary="task a done">
       <option name="closed" value="true" />
