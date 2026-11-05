@@ -26,7 +26,7 @@ def find_index_binsearch(number: int, arr: list[int]) -> int:
     if number > arr[-1] or number < arr[0]:
         return -1
     if number == arr[-1]:
-        return len(arr)-1
+        return len(arr) - 1
     if number == arr[0]:
         return 0
     while arr[middle] != number and r > l:
@@ -41,9 +41,13 @@ def find_index_binsearch(number: int, arr: list[int]) -> int:
         return -1
     return middle
 
+
 for i in sequence:
     index = find_index_binsearch(i, arr_unique)
     if index == -1:
         print(0)
         continue
-    print(arr_unique_count_prefix_sum[index] + 1, arr_unique_count_prefix_sum[index] + arr_unique_count[index])
+    print(
+        arr_unique_count_prefix_sum[index] + 1,
+        arr_unique_count_prefix_sum[index] + arr_unique_count[index],
+    )

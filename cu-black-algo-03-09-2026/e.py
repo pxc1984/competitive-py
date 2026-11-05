@@ -31,7 +31,7 @@ def greatest_common_sequence(seq1, seq2):
             else:
                 dp[j] = 0
 
-    return seq1[best_end - best_length:best_end]
+    return seq1[best_end - best_length : best_end]
 
 
 result = greatest_common_sequence(sequence1, sequence2)
