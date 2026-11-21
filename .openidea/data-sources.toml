@@ -1,0 +1,71 @@
+[[data-source]]
+comment = ""
+database = ""
+driver = "postgres"
+host = "localhost"
+id = "a2d4fc0f-131d-4f12-86f9-debf742b177b"
+name = "lottery"
+port = 55432
+properties = []
+readOnly = false
+savePassword = false
+ssl = "prefer"
+sslCaFile = ""
+sslCertFile = ""
+sslKeyFile = ""
+url = ""
+urlOnly = false
+user = "postgres"
+vendor = ""
+
+[data-source.introspection]
+allDatabases = true
+allSchemas = true
+databases = []
+objectFilter = ""
+schemas = []
+showSystem = false
+showTemplates = false
+
+[data-source.options]
+defaultSchema = ""
+singleDatabase = false
+startupScript = ""
+timeZone = ""
+transaction = "auto"
+
+[[data-source]]
+comment = ""
+database = "cu-db"
+driver = "postgres"
+host = "127.0.0.1"
+id = "14697bde-0325-414e-b829-005df9f23a09"
+name = "cu-db@localhost"
+port = 5432
+properties = []
+readOnly = false
+savePassword = true
+ssl = "disable"
+sslCaFile = ""
+sslCertFile = ""
+sslKeyFile = ""
+url = ""
+urlOnly = false
+user = "student"
+vendor = ""
+
+[data-source.introspection]
+allDatabases = true
+allSchemas = true
+databases = []
+objectFilter = ""
+schemas = []
+showSystem = false
+showTemplates = false
+
+[data-source.options]
+defaultSchema = ""
+singleDatabase = false
+startupScript = ""
+timeZone = ""
+transaction = "auto"

@@ -1,0 +1,23 @@
+name: competitive-py-db
+services:
+  postgres:
+    image: postgres:18-alpine
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:5432:5432"
+    environment:
+      POSTGRES_USER: student
+      POSTGRES_PASSWORD: local_practice_2026
+      POSTGRES_DB: cu-db
+      TZ: Europe/Moscow
+      PGTZ: Europe/Moscow
+    command: ["postgres", "-c", "search_path=db_vzhukh,public", "-c", "timezone=Europe/Moscow"]
+    volumes:
+      - postgres_data:/var/lib/postgresql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U student -d cu-db"]
+      interval: 2s
+      timeout: 5s
+      retries: 30
+volumes:
+  postgres_data:
