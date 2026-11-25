@@ -10,14 +10,7 @@
     <configurations />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3f7d919-9f5e-4c60-9473-4a66c097bf6c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/competitive-py.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/competitive-py@1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ai/Кейс_по_NLP_(1).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ai/Кейс_по_NLP_(1).ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-    </list>
+    <list default="true" id="e3f7d919-9f5e-4c60-9473-4a66c097bf6c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -181,7 +174,7 @@
       <workItem from="1792866416090" duration="389000" />
       <workItem from="1795008435283" duration="2183000" />
       <workItem from="1795011288122" duration="5841000" />
-      <workItem from="1795525694490" duration="1960000" />
+      <workItem from="1795525694490" duration="2408000" />
     </task>
     <task id="LOCAL-00001" summary="task a done">
       <option name="closed" value="true" />
